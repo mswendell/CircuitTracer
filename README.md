@@ -100,18 +100,4 @@ missing values, invalid characters, and incorrect row or column values.I am fair
 all conditions being it passed all of the testers tests using many different valid or invalid format defined in the class. 
 
 
-DISCUSSION:
- 
-I found this project to be pretty difficult at first, because there were several different classes that needed to work together
-and I had to not only understand how each class worked, but also be able to write two of them. I found that re-reading the 
-pseudo-code for the search algorithm helped the most in writing and organization for the Circuit Tracer. Once, I was able to get
-a solid understanding of how to implement the algorithm and how it worked, I was able to get the trace started. 
-
-It was very relieving to see the result work the first time and the trace result to be output to the console. However, on the first
-few runs, I noticed that my comparative statements weren't working and the output was only printing the first path. From there it
-took a few runs for me to see that I had to use the second constructor for the TraceState to keep track of the path made so that 
-the path array is stored in the TraceState objects. Altogether, I found this project fairly difficult with getting started, but after
-working through the pseudo-algorithm many times I was able to figure out its implementation and complete the rest of the project swiftly
-afterwards.
-
 
